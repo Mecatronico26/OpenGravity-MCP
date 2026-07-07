@@ -1,0 +1,31 @@
+# === Secretos ===
+.env
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# === Entornos virtuales ===
+.venv/
+venv/
+env/
+
+# === IDEs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Gemini / Antigravity ===
+.gemini/
+.agents/
